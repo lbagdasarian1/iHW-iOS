@@ -5,38 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>67CE4F47-5D7D-4996-96A5-204162BC8583</string>
+	<string>D6468CB4-4299-4CDB-8941-FC621926DCCB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iHW</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5565998DF04413847F03B2FC0A08FB6BA2627085</key>
-<<<<<<< HEAD
-		<string>https://github.com/bkim1/iHW-iOS.git</string>
-=======
-		<string>https://github.com/HWComputerScience/iHW-iOS.git</string>
->>>>>>> upstream/master
+		<key>97065149-1D59-42CD-B44C-FE44E6B93D0E</key>
+		<string>https://github.com/lbagdasarian1/iHW-iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iHW-iOS/iHW/iHW.xcodeproj</string>
+	<string>iHW-iOS/iHW/iHW.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5565998DF04413847F03B2FC0A08FB6BA2627085</key>
+		<key>97065149-1D59-42CD-B44C-FE44E6B93D0E</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bkim1/iHW-iOS.git</string>
+	<string>https://github.com/lbagdasarian1/iHW-iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>111</integer>
+	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5565998DF04413847F03B2FC0A08FB6BA2627085</string>
+	<string>97065149-1D59-42CD-B44C-FE44E6B93D0E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5565998DF04413847F03B2FC0A08FB6BA2627085</string>
+			<string>97065149-1D59-42CD-B44C-FE44E6B93D0E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iHW-iOS</string>
 		</dict>

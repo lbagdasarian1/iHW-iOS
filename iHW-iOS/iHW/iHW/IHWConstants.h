@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Jonathan Burns. All rights reserved.
 //
 
+/* Hello world! */
+
 typedef enum {
     CAMPUS_MIDDLE = 6,
     CAMPUS_UPPER = 5
